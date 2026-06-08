@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohand Sabry 👋</h1>
+<h1 align="center">Hi, I'm Mohand Sabry </h1>
 <h3 align="center">QA Engineer &nbsp;|&nbsp; ISTQB CTFL Certified &nbsp;|&nbsp; Remote-Ready</h3>
 
 <p align="center">
